@@ -23,7 +23,7 @@ This repository contains solutions to various C programming challenges from Hack
 - [Structures and Enums](#structures-and-enums)
 
 ---
-<hr>
+
 
 ## Domains
 
