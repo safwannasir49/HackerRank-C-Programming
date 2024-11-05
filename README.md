@@ -14,7 +14,16 @@ This repository contains solutions to various C programming challenges from Hack
 
 <hr>
 
-<br>
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Conditionals and Loops](#conditionals-and-loops)
+- [Arrays and Strings](#arrays-and-strings)
+- [Functions](#functions)
+- [Structures and Enums](#structures-and-enums)
+
+---
+<hr>
 
 ## Domains
 
