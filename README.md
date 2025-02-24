@@ -31,11 +31,11 @@ This repository contains solutions to various C programming challenges from Hack
 
 | Number |                                 Challenge                                  |                     Solution                    |
 |:------:|:--------------------------------------------------------------------------:|:-----------------------------------------------:|
-|   1    | [Hello World! In C](https://www.hackerrank.com/challenges/hello-world-c/problem)           | [C Code](01-Hello-World-In-C.c)                |
-|   2    | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C Code](02-Playing-With-Characters.c)         |
-|   3    | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C Code](03-Sum-and-Difference-of-Two-Numbers.c) |
-|   4    | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)  | [C Code](04-Functions-in-C.c)                   |
-|   5    | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)  | [C Code](05-Pointers-in-C.c)                   |
+|   1    | [Hello World! In C](https://www.hackerrank.com/challenges/hello-world-c/problem)           | [C Code](https://github.com/safwannasir49/HackerRank-C-Programming/blob/main/Introduction/Hello%20World/%22Hello%20World!%22%20in%20C)                |
+|   2    | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C Code](https://github.com/safwannasir49/HackerRank-C-Programming/blob/main/Introduction/Playing%20With%20Characters/Playing%20With%20Characters.c)         |
+|   3    | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C Code](https://github.com/safwannasir49/HackerRank-C-Programming/blob/main/Introduction/Sum%20and%20Difference%20of%20Two%20Numbers/Sum%20and%20Difference%20of%20Two%20Numbers.c) |
+|   4    | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)  | [C Code](https://github.com/safwannasir49/HackerRank-C-Programming/blob/main/Introduction/Functions/Functions.c)                   |
+|   5    | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)  | [C Code](https://github.com/safwannasir49/HackerRank-C-Programming/blob/main/Introduction/Pointers/pointers.c)                   |
 
 ### Conditionals and Loops
 
